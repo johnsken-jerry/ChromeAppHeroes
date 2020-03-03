@@ -1,16 +1,19 @@
+---
+title: 047《Go to Tab》快速跳转到打开的网页
+---
 - Chrome浏览器支持打开多个窗口, 每个窗口支持打开多个标签, 我有一个习惯,每次搜索新的内容,都会打开一个新窗口, 新窗口又会产生新标签,于是窗口和标签越来越多, 窗口和标签很多, 就很难快速定位到已经打开的某个标签页
 
 - Go to Tab让我们以最快的方式, 定位到已经打开的标签页
 
-> ![2019-06-15-18 54 23](https://user-images.githubusercontent.com/15868458/59550928-2a623b00-8fa4-11e9-8525-8e830907463b.gif)
+> ![2019-06-15-18 54 23](https://www.v2fy.com/asset/047_go_to_tab/59550928-2a623b00-8fa4-11e9-8525-8e830907463b.gif)
 
 - Go to Tab通过扩展面板,直接关闭标签页, 或其它窗口
 
-> ![002](https://user-images.githubusercontent.com/15868458/59550929-2a623b00-8fa4-11e9-84a4-6da5f43ff517.gif)
+> ![002](https://www.v2fy.com/asset/047_go_to_tab/59550929-2a623b00-8fa4-11e9-84a4-6da5f43ff517.gif)
 
 - Go to Tab可以通过扩展面板,搜索标签页关键词, 标签页高亮后, 按回车即可弹出标签页
 
-> ![003](https://user-images.githubusercontent.com/15868458/59550930-2afad180-8fa4-11e9-8822-06112d10cb30.gif)
+> ![003](https://www.v2fy.com/asset/047_go_to_tab/59550930-2afad180-8fa4-11e9-8822-06112d10cb30.gif)
 
 
 ## 扩展程序下载链接
@@ -20,7 +23,7 @@
 ## 小结:
 Go to Tab对于工作期间大量打开页面, 又长时间不关机的程序员们, 是非常有帮助的
 
-> ![谷粒-Chrome插件英雄榜](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
+> ![谷粒-Chrome插件英雄榜](https://www.v2fy.com/asset/047_go_to_tab/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
 
 
 ## 写在最后(我需要你的支持)

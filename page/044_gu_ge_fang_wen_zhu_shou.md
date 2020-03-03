@@ -1,3 +1,6 @@
+---
+title: 044《谷歌访问助手》访问Chrome商店 Gmail 谷歌搜索
+---
 每当我向小伙伴分享超棒的Chrome插件(扩展程序)的时候, 总会有小伙伴问,从哪里下载Chrome浏览器以及Chrome扩展程序, 这篇文章就为这个问题做一个通用的回答
 
 - 你可以从谷歌中国下载Chrome浏览器, 下载地址: [https://www.google.cn/chrome/](https://www.google.cn/chrome/)
@@ -8,30 +11,30 @@
 
 从官方网站下载: [http://www.ggfwzs.com/](http://www.ggfwzs.com/)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/316e734a70494346a07bfc23860901ce.png)
+> ![](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/316e734a70494346a07bfc23860901ce.png)
 
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/8369fcf16b8c4b0c9cbc68fa64bc5d1c.png)
+> ![](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/8369fcf16b8c4b0c9cbc68fa64bc5d1c.png)
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/87bd9745fc7b45d48de71a0297d609b7.gif)
+> ![](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/87bd9745fc7b45d48de71a0297d609b7.gif)
 
 
 
 ## 添加到chrome
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a8c8c62f3e24412d83d0b8d1c5dc9088.gif)
+> ![](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/a8c8c62f3e24412d83d0b8d1c5dc9088.gif)
 
 
 
 
 ## 更改主页
 
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d55791772789449bab55cc3f42d82b00.gif)
+> ![](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/d55791772789449bab55cc3f42d82b00.gif)
 
 
 
 ## 重启浏览器,即可使用Chrome商店, 谷歌搜索
-> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/deff71a536ba4027a01fe3c7a558c277.gif)
+> ![](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/deff71a536ba4027a01fe3c7a558c277.gif)
 
 ## 谷歌访问助手Chrome商店下载地址:
 
@@ -43,7 +46,7 @@
 
 谷歌访问助手可以让我们访问Chrome商店, 以及谷歌搜索, 谷歌Gmail等服务
 `仅为香港地区用户提，供方便科研,外贸提供帮助,不良用户,将封锁访问IP,后果自负`, 谷歌访问助手需要你设置主页为`https://2018.hao245.com/`才能使用, 有百度全家桶, 360全家桶的流氓内涵~
-> ![谷粒-Chrome插件英雄榜](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
+> ![谷粒-Chrome插件英雄榜](https://www.v2fy.com/asset/044_gu_ge_fang_wen_zhu_shou/1b8e3f49df2b4ab4ac737a1684975cac.jpeg)
 
 
 ## 写在最后(我需要你的支持)

@@ -1,9 +1,12 @@
+---
+title: 058《IP-Address》快速查看当前设备IP
+---
 如何快速查看自己设备真实的IP地址, 并获得ip所在的国家或地区?
 这款名为《IP-Address》的Chrome扩展可以帮到你～
 
 IP-Address的使用方法非常简单,而且可以实时检测网络IP的变化,并显示IP所在的国家或地区
 
-![ip_address](https://user-images.githubusercontent.com/15868458/63222725-ee369b00-c1dd-11e9-986e-cbc002168db8.gif)
+![ip_address](https://www.v2fy.com/asset/058_ip_address/63222725-ee369b00-c1dd-11e9-986e-cbc002168db8.gif)
 
 - 上图超清gif原图:  https://user-images.githubusercontent.com/15868458/63222726-eecf3180-c1dd-11e9-9dad-42812718c814.gif
 
@@ -36,7 +39,7 @@ print(query_ip_attribution("5.181.23.103"));
 
 ## 运行程序
 
-> ![](https://user-images.githubusercontent.com/15868458/63222883-d8c27080-c1df-11e9-8828-cb4a5ce716cb.png)
+> ![](https://www.v2fy.com/asset/058_ip_address/63222883-d8c27080-c1df-11e9-8828-cb4a5ce716cb.png)
 
 
 ## Chrome扩展`IP-Address` 下载链接:

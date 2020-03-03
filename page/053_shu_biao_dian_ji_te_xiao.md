@@ -1,12 +1,14 @@
-
+---
+title: 053《鼠标点击特效 (๑•́ ∀ •̀๑)》为鼠标点击添加有趣的特效
+---
 
 《鼠标点击特效 (๑•́ ∀ •̀๑)》是一款为鼠标点击添加有趣的特效 的扩展程序
 
 ## 安装后默认展示效果如下
-![001](https://user-images.githubusercontent.com/15868458/61599882-96008d80-ac5f-11e9-8329-60a44bb8ef11.gif)
+![001](https://www.v2fy.com/asset/053_shu_biao_dian_ji_te_xiao/61599882-96008d80-ac5f-11e9-8329-60a44bb8ef11.gif)
 
 ## 如果移除默认符号, 会随机显示下方列表内的符号
-![002](https://user-images.githubusercontent.com/15868458/61599883-96992400-ac5f-11e9-9448-c3ad206f9ee4.gif)
+![002](https://www.v2fy.com/asset/053_shu_biao_dian_ji_te_xiao/61599883-96992400-ac5f-11e9-9448-c3ad206f9ee4.gif)
 
 ## 自定义弹出内容, 乐趣翻倍~
 ```
@@ -18,10 +20,10 @@
 感觉身体被掏空…
 李云龙, 听说那小子发财了?
 ```
-![](https://user-images.githubusercontent.com/15868458/61600040-04921b00-ac61-11e9-8446-533752d71de1.gif)
+![](https://www.v2fy.com/asset/053_shu_biao_dian_ji_te_xiao/61600040-04921b00-ac61-11e9-8446-533752d71de1.gif)
 
 ## 自定义字体大小和颜色(有点花哨外带点骚气~)
-![006](https://user-images.githubusercontent.com/15868458/61600199-10321180-ac62-11e9-8e2b-8a9baa796b6d.gif)
+![006](https://www.v2fy.com/asset/053_shu_biao_dian_ji_te_xiao/61600199-10321180-ac62-11e9-8e2b-8a9baa796b6d.gif)
 
 
 ## 扩展程序下载地址：

@@ -10,7 +10,7 @@
 
 - [https://chrome.zzzmh.cn/](https://chrome.zzzmh.cn/)
 
-![](https://user-images.githubusercontent.com/15868458/62830260-7d700b80-bc3e-11e9-9322-b38df02a708b.png)
+![](https://v2fy.com/asset/chrome_extended_resources_site/62830260-7d700b80-bc3e-11e9-9322-b38df02a708b.png)
 
 
 
